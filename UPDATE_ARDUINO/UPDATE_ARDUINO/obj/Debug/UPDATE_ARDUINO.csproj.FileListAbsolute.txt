@@ -1,0 +1,10 @@
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\bin\Debug\UPDATE_ARDUINO.exe.config
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\bin\Debug\UPDATE_ARDUINO.exe
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\bin\Debug\UPDATE_ARDUINO.pdb
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.csproj.AssemblyReference.cache
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.Form1.resources
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.Properties.Resources.resources
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.csproj.GenerateResource.cache
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.csproj.CoreCompileInputs.cache
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.exe
+C:\Users\PC khoa\Desktop\UPDATE_ARDUINO\UPDATE_ARDUINO\obj\Debug\UPDATE_ARDUINO.pdb
